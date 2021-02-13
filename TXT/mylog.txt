@@ -1,0 +1,9 @@
+ZCZC W00  15 L00 General Log
+ZCZC W00  60 L01 SCELE related
+ZCZC W00  20 L03 GitHub Related
+ZCZC W00  60 L05 GSGS related
+ZCZC W00 360 L06 Reading Refereces/Books/Documents
+ZCZC W00  60 L25 C-language: study, etc.
+ZCZC W00 360 L23 Discord: discussion, etc.
+ZCZC W00 120 L27 Pets: feeding, playing, etc
+ZCZC W00 840 YouTube: study, etc.
