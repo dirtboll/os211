@@ -1,6 +1,4 @@
----
-include_relative: nav.md
----
+{% include_relative nav.md %}
 
 Operating Systems 2021-1
 
