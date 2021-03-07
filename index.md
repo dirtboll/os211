@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 
 ## About
 This is Dirtboll's Operating Systems 2021-1 Course repository.
