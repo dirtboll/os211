@@ -1,12 +1,9 @@
-[HOME](.) |
-[WEEK1](W01) |
-[LOG](TXT/mylog.txt)
+## About
+This is Dirtboll's Operating Systems 2021-1 Course repository.
 
-Operating Systems 2021-1
-
-## About me
-Name : I Gede Aditya Premana Putra  
-NPM  : 1906350566  
-Class: C  
-  
-[This repo](https://github.com/dirtboll/os211)
+## Links
+* [This repo](https://github.com/dirtboll/os211)
+* [This site](https://dirtboll.github.io/os211/)
+* [Dirtboll's Github](https://github.com/dirtboll/)
+ 
+> bG1hbw==
