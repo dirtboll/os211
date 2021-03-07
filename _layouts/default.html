@@ -10,7 +10,8 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% include nav.md %}
+      {% capture nav %}{% include nav.md %}{% endcapture %}
+      {{ nav | markdownify }}
 
       {{ content }}
 
