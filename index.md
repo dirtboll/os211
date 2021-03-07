@@ -1,3 +1,7 @@
+[HOME](.) |
+[WEEK1](W01) |
+[LOG](TXT/mylog.txt)
+
 ## About
 This is Dirtboll's Operating Systems 2021-1 Course repository.
 
