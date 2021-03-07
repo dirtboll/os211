@@ -6,4 +6,5 @@ This is Dirtboll's Operating Systems 2021-1 Course repository.
 * [This site](https://dirtboll.github.io/os211/)
 * [Dirtboll's Github](https://github.com/dirtboll/)
  
-> bG1hbw==
+ 
+> SGFwcHkgdGhvdWdodHMsIGhhcHB5IHRob3VnaHRzLCBoYXBweSB0aG91Z2h0cw==
