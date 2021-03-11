@@ -2,8 +2,8 @@ title:      "OS211"
 author:     "dirtboll"
 sitemap:    "true"
 urlweb:     "https://dirtboll.github.io/os211"
-urlgithub:  "https://github.com/dirtboll/os211"
 urlghpage:  "https://dirtboll.github.io/os211"
+urlgithub:  "https://github.com/dirtboll/os211"
 keywords:   "jekyll, testing"
 plugins:
     - jekyll-sitemap

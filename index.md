@@ -1,10 +1,6 @@
-## About
-This is Dirtboll's Operating Systems 2021-1 Course repository.
+---
+title: Home
+---
 
-## Links
-* [This repo](https://github.com/dirtboll/os211)
-* [This site](https://dirtboll.github.io/os211/)
-* [Dirtboll's Github](https://github.com/dirtboll/)
- 
- 
-> SGFwcHkgdGhvdWdodHMsIGhhcHB5IHRob3VnaHRzLCBoYXBweSB0aG91Z2h0cw==
+# About ![MyLogo](https://github.com/dirtboll.png?size=50)
+This is Dirtboll's Operating Systems 2021-1 Course repository.
