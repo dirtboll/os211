@@ -1,7 +1,30 @@
 #!/bin/bash
-
+REC2="dirtboll.boi@gmail.com"
+REC1="operatingsystems@vlsm.org"
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
+
+[ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
+pushd $HOME/RESULT
+for II in W?? ; do
+    [ -d $II ] || continue
+    TARFILE=my$II.tar.bz2
+    TARFASC=$TARFILE.asc
+    rm -f $TARFILE $TARFASC
+    echo -e "\e[36mCreating tar from $II\e[0m"
+    echo -e "\e[33;1m> tar cfj $TARFILE $II/\e[0m"
+    tar cfj $TARFILE $II/
+    echo -e "\e[36mSigning $TARFILE\e[0m"
+    echo -e "\e[33;1m> gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE\e[0m"
+    gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
+done
+popd
+
+rm -f $HOME/RESULT/fakeDODOL
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+   echo -e "\e[36mCheck and move $II...\e[0m"
+   [ -f $II ] && mv -f $II .
+done
 
 echo -e "\e[36mDeleting previous files\n\e[33;1m> rm -f $SHA $SHA.asc\e[0m"
 rm -f $SHA $SHA.asc
