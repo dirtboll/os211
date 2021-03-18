@@ -23,6 +23,10 @@ ZCZC W02  30 L21 Setup ssh and keyring
 ZCZC W03  15 L00 Doing logs
 ZCZC W03  30 L01 Scele Pop Quizes
 ZCZC W03 100 L02 Weekly Zoom meeting
+ZCZC W03  15 L12 Try some demos
+ZCZC W03   5 L13 Updating my .bash_aliases
+ZCZC W03   5 L14 Pick my W02 Top 10
 ZCZC W03  45 L17 Decrypt, run script, archive, and sign tar W03.tar.bz2
 ZCZC W03  30 L18 Update myscript.sh
+ZCZC W03   1 L19 Updating checksum
 ZCZC W03  30 L23 Scele Pop Quizes
