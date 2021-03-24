@@ -30,3 +30,4 @@ ZCZC W03  45 L17 Decrypt, run script, archive, and sign tar W03.tar.bz2
 ZCZC W03  30 L18 Update myscript.sh
 ZCZC W03   1 L19 Updating checksum
 ZCZC W03  30 L23 Scele Pop Quizes
+ZCZC W04 100 L02 Weekly Zoom meeting
