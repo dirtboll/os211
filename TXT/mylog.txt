@@ -41,4 +41,5 @@ ZCZC W05 100 L02 Weekly Zoom meeting
 ZCZC W05 120 L13 Create my W05 Top 10 List
 ZCZC W05  10 L14 Pick my W04 Top 3 Top 10
 ZCZC W05  10 L16 Decrypt and run myW05.tar.bz2.asc
-ZCZC W05 120 L25 Learn about pointers in C and Nimrod
+ZCZC W05  60 L21 VirtualBox: Quizes and trying things out
+ZCZC W05  60 L25 Learn about C for gamedev
