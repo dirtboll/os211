@@ -49,3 +49,8 @@ ZCZC W06  30 L10 Do Weekly assignments
 ZCZC W06 120 L13 Create W06 Top 10 List
 ZCZC W06  15 L14 Pick W05 Top 3 Top 10
 ZCZC W06 120 L21 VirtualBox: Quizes and trying things out
+ZCZC W07  15 L00 Update Logs
+ZCZC W07 100 L02 Weekly Zoom meeting
+ZCZC W07 180 L10 Create W07 Top 10 List and do Assignments
+ZCZC W07  15 L14 Pick W06 Top 3 Top 10
+ZCZC W07 120 L21 VirtualBox: Quizes and trying things out
